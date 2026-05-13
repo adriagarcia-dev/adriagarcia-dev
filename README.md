@@ -71,3 +71,9 @@ Higher Technician in Web Application Development and Technician in Microcomputer
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/✨%20Some%20of%20my%20projects-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
