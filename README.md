@@ -74,6 +74,4 @@ Higher Technician in Web Application Development and Technician in Microcomputer
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/✨%20Some%20of%20my%20projects-000000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<h2 align="center">⬇️ Some of my projects ⬇️</h2>
